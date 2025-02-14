@@ -1,6 +1,6 @@
 # Exercise
 
-**In this repository the difeerent solutions solved and practiced with python and sql languages**
+**The repository contains different solutions for solved and practiced questions of python and sql **
 
 *#Python*
 
